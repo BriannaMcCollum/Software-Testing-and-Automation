@@ -2,7 +2,8 @@
 My work for CS-320 Software Test Automation
 
 # How can I ensure that my code, program, or software is functional and secure?
-
+A simple answer, by testing it of course! It goes much more complex than that, however, because testing itself is complex and varies deeply depending on the subject matter you're testing for. Some software places heavy emphasis on efficiency. Others need certain compatibilities, want brilliant-looking UI, or perhaps have a large concern with user security. All of these needs can be tested for, but blanket testing will not do. In-depth testing, tuned to the requirements of the project, is what will help assure functionality and security the best.
 # How do I interpret user needs and incorporate them into a program?
-
+Programs aren't just mindless checklists, but rather based on real people and their needs. Interpreting user needs is a skill that requires a lot of reasoning and communication skills. You can ask your clients exactly what they want the program to do, and ask potential users exactly what they want to see, but that won't give you an exact answer. You must take the input from outside sources and translate it into meaningful requirements. You as the programmer must understand what the end goal of the project is, and what pieces will help the project get there. 
 # How do I approach designing software?
+I begin by stepping back and analyzing what the core goal of a program is. I then stem downwards and figure out what building blocks will need to be put into place for that to happen. I try to start programming in the broadest terms that I can, and if I find it's too broad, I can easily narrow the scope as I go. Testing is also a large part of my programming practice. I use little static testing and mostly dynamic testing, as the visual feedback of what's working and what's not is incredibly helpful for me. It can sometimes be hard to see outputs in my head, but adding extra print statements during early development or using JUint testing as I did for this class visually shows me the processing of my code.
